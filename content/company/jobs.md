@@ -1,48 +1,59 @@
 ---
 title: Jobs
 layout: Default
-scripts: https://www.workable.com/assets/embed.js
-inlineJS: "
-var waitUntilScriptLoaded = setInterval(function() {
-  if (window.whr_embed) {
-    clearInterval(waitUntilScriptLoaded);
-    whr_embed(94463, { detail: 'titles', base: 'jobs', zoom: 'country', grouping: 'none' })
-  }
-}, 10);
-"
-inlineCSS: ""
 ---
+# Working at Serverless
 
-# [About Serverless](http://serverless.com/company)
+## Our values
 
-## Why you will love working with us
+**Camaraderie**
+- shared success
+- celebrate wins
+- have fun
 
-### Ambition
+**Collaboration**
+- offering to help
+- clear communication/expectations
 
-We have a huge goal: to empower developers to build the next great software products and companies by allowing them to focus more time on building product and less on operations, scaling and infrastructure management. If you enjoy disrupting large industries and working on big hairy problems, you’ll love it here.
+**Results Oriented**
+- focus on team success
+- set clear goals
+- unblock others
+- tightly aligned
 
-### Productivity
+**Personal Accountability**
+- loosely coupled
+- autonomous/independent
+- get stuff done
 
-We place the same focus on productivity with our team members that we do with our customers. That means great tooling, light-weight processes, and the removal of distractions so that you have the freedom to get stuff done.
+**Candor**
+- constant and constructive feedback
+- unafraid of being honest
 
-### Personal Happiness
+**Bold and Ambitious**
+- embrace new technology
+- focus on business goals  
 
-We believe that happy people are productive people and we make it a goal to give you enough time and space to develop your personal life along with your professional life. That means unlimited paid vacation with a required minimum of 20 days off per year.
+**Open Source**
+- giving back to the internet
+- effectively using OS as a strategy
+- providing value to our community
 
-### Transparency
-
-We want everyone to have a clear understanding of the state of the company and to contribute to different parts of the organization. That means opening up as much information as possible including finances, salaries, and metrics.
+**Conceptual Integrity**
+- simplicity
+- avoid unnecessary complexity
 
 ## PERKS
 
-*   Fully remote team
-*   Competitive pay/equity based on transparent worldwide formula
+*   Remote friendly culture
+*   Biannual team retreats (past locations indlude Austria, California, and Thailand)
+*   Culture of empowerment (our entire company, from processes to values, live in a Github repo that anyone can propose changes to) 
+*   Competitive pay/equity
 *   Working on and with cutting-edge technology
 *   Being an early part of quickly growing company
 *   Top-tier investment firms
 *   Sponsored speaking at conferences
 *   Unlimited paid vacation with 20 minimum vacation days everyone has to take to be productive
 
-# Current Job listings
+## [View Open Positions](https://jobs.lever.co/serverless)
 
-<div id='whr_embed_hook'></div>
